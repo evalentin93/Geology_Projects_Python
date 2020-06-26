@@ -8,6 +8,6 @@ As I am learning to program with python, I wish to develop a script that can dis
 
 My goal is to construct and train a machine learning algorithm that can do all this and maybe present this script in a more user-friendly manner.
 
-To develop such a project there a few stepping stones to achieve, such as develop an adequate database to train the algorithm and become more mature in the python language.
+To develop such a project there are a few stepping stones to achieve, such as develop an adequate database to train the algorithm and become more mature in the python language.
 
 Future perspectives involve maybe expand this project to treat data of other analytical techniques, such as ICP-MS, it would be great to develop something similar to Isoplot, without the need of using Excel 2010.
