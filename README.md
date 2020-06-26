@@ -10,4 +10,4 @@ My goal is to construct and train a machine learning algorithm that can do all t
 
 To develop such a project there are a few stepping stones to achieve, such as develop an adequate database to train the algorithm and become more mature in the python language.
 
-Future perspectives involve maybe expand this project to treat data of other analytical techniques, such as ICP-MS, it would be great to develop something similar to Isoplot, without the need of using Excel 2010.
+Future perspectives involve maybe expand this project to treat data of other analytical techniques, such as ICP-MS, it would be great to develop something similar to Isoplot, without using Excel.
