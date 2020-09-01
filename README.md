@@ -1,6 +1,16 @@
-# Data Science for Geochemistry!
+# Hello!
 
-Hello! My name is Eduardo Valentin and, for now, this is a collection of data science projects involving EPMA mineral formula calculations and data plotting.
+## Main Projects:
+
+Hello! My name is Eduardo Valentin and, for now, this is a collection of python programming projects involving geology and routine science work.
+
+### Scripts for routine science work
+
+The goal of this project is to build basic python scripts for routine science work, like gather information from scientific publications, visualization of data, replication of well known geologic diagrams and graphs.
+
+Future perspectives involve refine my work and build more sofisticated general purpose algorithms.
+
+### Data Science for Geochemistry
 
 The goal of this project is to help users that are unfamiliar with the EPMA data handling and classification. 
 
