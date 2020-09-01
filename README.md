@@ -2,7 +2,7 @@
 
 Hello! My name is Eduardo Valentin and, for now, this is a collection of python programming projects involving geology and routine science work.
 
-### Scripts for routine science work
+### Scripts for Routine Science Work
 
 The goal of this project is to build basic python scripts for routine science work, like gather information from scientific publications, visualization of data, replication of well known geologic diagrams and graphs.
 
