@@ -1,6 +1,4 @@
-# Hello!
-
-## Main Projects:
+# Hello world!
 
 Hello! My name is Eduardo Valentin and, for now, this is a collection of python programming projects involving geology and routine science work.
 
