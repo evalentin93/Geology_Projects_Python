@@ -6,7 +6,7 @@ Hello! My name is Eduardo Valentin and, for now, this is a collection of python 
 
 The goal of this project is to build basic python scripts for routine science work, like gather information from scientific publications, visualization of data, replication of well known geologic diagrams and graphs.
 
-Future perspectives involve refine my work and build more sofisticated general purpose algorithms.
+Future perspectives involve refinement of my work and build more sofisticated general purpose algorithms.
 
 ### Data Science for Geochemistry
 
