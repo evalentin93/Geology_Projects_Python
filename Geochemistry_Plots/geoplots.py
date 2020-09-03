@@ -42,7 +42,6 @@ def add_Peccerillo_fields(plot_axes, fontsize=8, color=(0.6, 0.6, 0.6)):
 
     # Prepare the field information
     from collections import namedtuple
-    from collections import namedtuple
     FieldLine = namedtuple('FieldLine', 'x1 y1 x2 y2')
     lines = (FieldLine(x1=45, y1=0.2, x2=70, y2=1.3),
               FieldLine(x1=45, y1=0.85, x2=70, y2=3),
