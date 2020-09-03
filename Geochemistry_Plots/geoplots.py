@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Filename: geoplots.py
+
 __all__ = ['add_Peccerillo_fields']
 
 
